@@ -11,7 +11,7 @@ Follow these steps to run the CultFit App project locally on your machine.
 
 1. **Clone the repository**: 
    ```bash
-   git clone https://github.com/your-username/cultfit-app.git
+   git clone https://github.com/anupamthackar/Cult-fit.git
    ```
 2. **Navigate to the project directory:**
   ```bash
